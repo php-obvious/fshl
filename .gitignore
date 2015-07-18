@@ -3,3 +3,5 @@
 /build/coverage/
 /build/logs/
 /build/pdepend/
+
+FSHL/Lexer/Cache/*
